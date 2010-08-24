@@ -1,0 +1,7 @@
+(1) Clean up documentation, which currently produces a large number of errors.
+
+(2) Get roxygen to work properly; update in place documentation.
+
+(3) Test suite is dreadfully lacking.
+
+(4) Explain actual algorithm in documentation.

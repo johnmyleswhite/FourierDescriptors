@@ -1,0 +1,4 @@
+FourierDescriptors_*.tar.gz
+FourierDescriptors.Rcheck
+roxygenize.R
+build_package.sh

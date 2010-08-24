@@ -1,0 +1,11 @@
+Package: FourierDescriptors
+Type: Package
+Title: Generate images using Fourier descriptors.
+Version: 0.1
+Date: 2010-08-24
+Author: John Myles White
+Maintainer: John Myles White <jmw@johnmyleswhite.com>
+Description: The FourierDescriptors package provides tools for creating, manipulating and visualizing Fourier descriptors.
+License: Artistic-2.0
+LazyLoad: yes
+Depends: ggplot2
