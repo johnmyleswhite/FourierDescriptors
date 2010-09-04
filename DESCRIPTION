@@ -8,4 +8,4 @@ Maintainer: John Myles White <jmw@johnmyleswhite.com>
 Description: The FourierDescriptors package provides methods for creating, manipulating and visualizing Fourier descriptors, a representational scheme used to describe closer planar contours. The images most easily described using Fourier descriptors are useful as stimuli for experiments in psychology and neuroscience.
 License: Artistic-2.0
 LazyLoad: yes
-Depends: ggplot2
+Depends: ggplot2, testthat

@@ -1,3 +1,5 @@
 FourierDescriptors.Rcheck
 roxygenize.R
 build_package.sh
+email_format.txt
+upload.sh
