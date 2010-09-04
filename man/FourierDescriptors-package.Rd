@@ -25,8 +25,6 @@ Maintainer: John Myles White <jmw@johnmyleswhite.com>
 Zahn and Roskies 1972
 }
 \keyword{ package }
-\seealso{
-}
 \examples{
 library('FourierDescriptors')
 

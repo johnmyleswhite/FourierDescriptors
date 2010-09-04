@@ -1,7 +1,10 @@
-(1) Clean up documentation, which currently produces a large number of errors.
+(1) Get roxygen to work properly; update in place documentation.
 
-(2) Get roxygen to work properly; update in place documentation.
+(2) Test suite is dreadfully lacking.
 
-(3) Test suite is dreadfully lacking.
+(3) Explain actual algorithm in documentation.
 
-(4) Explain actual algorithm in documentation.
+(4) Implement getter and setter methods for amplitude and phase.
+
+(5) Find a better default for the number of points used to plot a Fourier
+    descriptor. It should depend on the complexity of the input.

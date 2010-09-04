@@ -4,9 +4,7 @@
 Evaluate the angular position of a Fourier descriptor at point t.
 }
 \usage{
-fourier.descriptor <- random.fourier.descriptor(12)
-
-points <- cumbend(fourier.descriptor)}
+cumbend(fourier.descriptor, t)}
 \description{
 	Evaluate the angular position of a Fourier descriptor at point t.
 }

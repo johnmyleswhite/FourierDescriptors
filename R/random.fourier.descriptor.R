@@ -22,8 +22,8 @@
 #' fd <- random.fourier.descriptor(12)
 
 random.fourier.descriptor <- function(total.frequencies,
-                                               non.zero.frequencies = 1,
-                                               generating.function = function() {return(1)})
+                                      non.zero.frequencies = 1,
+                                      generating.function = function() {return(1)})
 {
   if (total.frequencies %% 2 == 1)
   {

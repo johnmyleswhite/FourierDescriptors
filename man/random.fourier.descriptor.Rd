@@ -5,7 +5,8 @@ Create a new Fourier descriptor object with randomly assigned
 amplitude along its even frequency components.
 }
 \usage{
-fd <- random.fourier.descriptor(12)}
+random.fourier.descriptor(total.frequencies, non.zero.frequencies = 1, generating.function = function() \{return(1)\})
+}
 \description{
 Create a new Fourier descriptor object with randomly assigned amplitude
 along its even frequency components.

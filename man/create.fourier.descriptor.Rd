@@ -4,7 +4,7 @@
 Create a new Fourier descriptor.
 }
 \usage{
-fourier.descriptor <- create.fourier.descriptor()
+create.fourier.descriptor(amplitude = c(0, 1, 0, 0), phase = c(0, 0, 0, 0))
 }
 \description{
 Create a new Fourier descriptor.

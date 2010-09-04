@@ -14,9 +14,9 @@
 #' 
 #' print(fourier.descriptor)
 
-print.fourier.descriptor <- function(fourier.descriptor)
+print.fourier.descriptor <- function(x, ...)
 {
   print('Class: fourier.descriptor')
-  print(paste('Amplitude: <', paste(fourier.descriptor[['Amplitude']], collapse = ', '), '>', sep = ''))
-  print(paste('Phase: <', paste(fourier.descriptor[['Phase']], collapse = ', '), '>', sep = ''))
+  print(paste('Amplitude: <', paste(x[['Amplitude']], collapse = ', '), '>', sep = ''))
+  print(paste('Phase: <', paste(x[['Phase']], collapse = ', '), '>', sep = ''))
 }

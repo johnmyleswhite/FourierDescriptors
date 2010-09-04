@@ -4,9 +4,7 @@
 Add amplitude weights to the zero-weighted frequencies of an existing Fourier descriptor.
 }
 \usage{
-fourier.descriptor <- random.fourier.descriptor(12)
-
-fd <- complicate.fourier.descriptor(fourier.descriptor)
+complicate.fourier.descriptor(fourier.descriptor, quantity = 1, generating.function = function() \{return(1)\})
 }
 \description{
 Add amplitude weights to the zero-weighted frequencies of an existing Fourier descriptor.
